@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My First Webpage!
 
 You can use the [editor on GitHub](https://github.com/Sky030700/Hellogit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###Self Introduction
+I am Lee Jet Xuen. You can call me Sky, dont ask why. I am currently a freshmore in SUTD.
 
 ### Jekyll Themes
 
